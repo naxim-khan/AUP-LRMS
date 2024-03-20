@@ -137,7 +137,7 @@ img{
     color: var(--color-primary);
     box-shadow: var(--neo-shadow);
     display: inline-flex;
-    font-weight: bold;
+    font-weight: normal;
     position: relative;
     
 }
